@@ -1,0 +1,16 @@
+{
+    "logipage_credentials":{
+        "username":"standard_user",
+        "password":"secret_sauce"
+    },
+    "checkout_credential":{
+        "firstname":"Hari",
+        "lastname":"Haran",
+        "zipcode":"12345"
+    }
+}
+
+
+
+
+
